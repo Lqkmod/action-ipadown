@@ -31,7 +31,7 @@ from telegram.error import BadRequest, Forbidden, TelegramError
 
 # --- Cấu hình ---
 # !!! THAY THẾ CÁC GIÁ TRỊ PLACEHOLDER BÊN DƯỚI BẰNG GIÁ TRỊ THỰC TẾ CỦA BẠN !!!
-BOT_TOKEN = "7416039734:AAHi1YS3uxLGg_KAyqddbZL8OxXB1wamga8" # <--- TOKEN CỦA BOT TELEGRAM CỦA BẠN
+BOT_TOKEN = "7416039734:AAE8-vdkSpCzJRvml2nDJip6O1wbkRes2oY" # <--- TOKEN CỦA BOT TELEGRAM CỦA BẠN
 API_KEY_TIM = "khangdino99" # <--- API KEY TIM (NẾU CÓ, DÙNG CHO LỆNH /tim) - Có thể để trống nếu không dùng /tim
 ADMIN_USER_ID = 7193749511 # <<< --- ID TELEGRAM SỐ CỦA ADMIN (Lấy từ @userinfobot)
 BILL_FORWARD_TARGET_ID = 7193749511 # <<< --- ID TELEGRAM SỐ CỦA NƠI NHẬN BILL (VD: ID của @khangtaixiu_bot hoặc Admin)
